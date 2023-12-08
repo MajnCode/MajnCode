@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me majnc0de@work.mail
 - ✨ Thanks For The Support!
+- :accessibility: My Site is https://minek0.weebly.com!
